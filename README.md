@@ -1,5 +1,5 @@
 # k-means-algorithm
-This project is one of my first ever made. I created an implementation of machine learning algorithm called k-means algorithm. The idea behind this algorithm is to give it a set of objects that are needed to be clustered, but you don't want to sort it on your own. You just want to give a set of points and number of clusters to be created. 
+This project is one of my first ever made. I created an implementation of machine learning algorithm called k-means algorithm. The idea behind it is to give it a set of objects that are needed to be clustered, but you don't want to sort it on your own. You just want to give a set of points and number of clusters to be created. 
 
 Steps of algorithm:
 - randomize k starting points (where k is the number of clusters), these points will be centres of clusters
